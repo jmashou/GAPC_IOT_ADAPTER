@@ -1,0 +1,1 @@
+# GAPC_IOT_ADAPTER
